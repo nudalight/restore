@@ -1,10 +1,16 @@
 # Project
 .idea
 
+
 # Dependencies
 bower_components
 node_modules
 
-# Compiled files
+
+# Compiled
 /client
 /server
+
+
+# Logs
+*.log
